@@ -1,0 +1,12 @@
+{
+	"data": {
+		"filename": "GBPUSD_Hourly_2018.csv",
+		"columns": [
+			"<CLOSE>",
+			"<HIGH>",
+			"<LOW>"
+		],
+		"sequence_length": 30,
+		"normalise": true
+	}
+}
